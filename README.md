@@ -16,6 +16,8 @@ Cualquier Bug o error que encuentres lo puedes escribir en la pestaña de issues
 
 Gracias por Mostrar interes en este proyecto espero que te guste el juego y que la pases bien ;)
 
+boolean © 2021
+
 
 
 
